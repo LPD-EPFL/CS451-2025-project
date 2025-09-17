@@ -1,6 +1,6 @@
 #include "hello.h"
 
-void hello() {
+void hello(void) {
     printf("Source files that end in .c will be compiled automatically with gcc,\n"
            "while source files that end in .cpp will be compiled automatically with g++.\n"
            "For those that prefer C, they can either use the provided C++\n"
