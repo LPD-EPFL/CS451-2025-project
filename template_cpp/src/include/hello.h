@@ -6,7 +6,7 @@ extern "C" {
 
 #include <stdio.h>
 
-void hello();
+void hello(void);
 
 #ifdef __cplusplus
 }
